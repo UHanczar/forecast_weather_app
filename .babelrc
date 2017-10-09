@@ -1,0 +1,11 @@
+{
+  "presets": [
+    "env", 
+    "latest", 
+    "es2015", 
+    "react"
+  ],
+  "plugins": [
+     ["transform-object-rest-spread", { "useBuiltIns": true }]
+  ]
+}
